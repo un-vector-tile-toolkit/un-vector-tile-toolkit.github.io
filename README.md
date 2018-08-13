@@ -1,1 +1,1 @@
-It works. Details coming soon.
+It works! Coming soon.
