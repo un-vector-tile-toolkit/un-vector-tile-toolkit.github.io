@@ -1,6 +1,6 @@
 UN Vector Tile Toolkit is to equip diverse basemap providers with Open Source software for vector tiles.
 
-We are progressively applying technologies from web maps in professional operations, such as disaster response, situational awareness, sustainable development and statistical analysis.
+We people are progressively applying web map technologies in professional operations, such as disaster response, situational awareness, sustainable development and statistical analysis.
 
 Among other applications, mobile applications for the use of tablets and smartphones make web map technology virtually essential, because such application needs to work with relatively limited device performance and bandwidth. The virtue of web map technology to work with the limited but connected environment by design benefits professional operations well.
 
