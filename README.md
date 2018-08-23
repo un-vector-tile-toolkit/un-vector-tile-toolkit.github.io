@@ -20,9 +20,9 @@ The UN Vector Tile Toolkit takes full advantage of existing open source software
 
 The UN Vector Tile Toolkit consists of scripts and documentation for the following six domains:
 
-- [Production](production.md): Automation and continuous update of vector tiles
-- [Statistics](statistics.md): Indicators for optimizing the size of each vector tile
-- [Hosting](hosting.md): Simple and fast hosting of vector tiles
-- [Styling](styling.md): Browsing and style editing of vector tiles
-- [Interoperability](interoperability.md): Making vector tiles usable from various software
-- [Conversion](conversion.md): converting existing vector tiles into optimized vector tiles
+- [Production](production): Automation and continuous update of vector tiles
+- [Statistics](statistics): Indicators for optimizing the size of each vector tile
+- [Hosting](hosting): Simple and fast hosting of vector tiles
+- [Styling](styling): Browsing and style editing of vector tiles
+- [Interoperability](interoperability): Making vector tiles usable from various software
+- [Conversion](conversion): converting existing vector tiles into optimized vector tiles
