@@ -32,8 +32,10 @@ A global vector tile prototype has already been developed for internal use in th
 
 The plan is to ensure that the prototype can be updated automatically and continuously, within one-day delay from the database update. As of now, it can be confirmed that the global vector tile dataset can be produced well within a week.
 
-## 4. Plan
-The OSGeo.JP Workshop for UN Vector Tile Toolkit will be held on 2 December 2018 in Moratuwa, Sri Lanka. The workshop will provide a hands-on experience for producing and hosting optimized vector tiles. The hands-on material will be available to the community in an open manner. 
+## 4. Recent progress
+The OSGeo.JP Workshop for UN Vector Tile Toolkit was held on 2 December 2018 in Moratuwa, Sri Lanka. The workshop provided a hands-on experience for producing and hosting optimized vector tiles. [The hands-on material](https://speakerdeck.com/hfu/the-osgeojp-workshop-for-the-un-vector-tile-toolkit) is available to the community in an open manner. 
+
+Version 1 of the UN Vector Tile Toolkit was released in a [keynote speech](https://speakerdeck.com/hfu/collaboration-of-geospatial-information-communities-through-the-un-open-gis-initiative) of the FOSS4G Asia 2018.
 
 The Geospatial Information Authority of Japan is also using the UN Vector Tile Toolkit to prototype their vector tile production. 
 
